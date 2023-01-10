@@ -12,6 +12,5 @@ You can watch a demo of my software here: [Software Demo Video](https://youtu.be
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code and HitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Python Reference](https://www.python.org/)
